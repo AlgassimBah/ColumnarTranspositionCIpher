@@ -1,3 +1,12 @@
+/** Project: Lab 5
+ * Purpose Details: Custom Cipher
+ * Course: IST 242
+ * Author: Joseph Oakes
+ * Date Developed: 12/11/24
+ * Last Date Changed: 12/11/24
+ * Rev: 12/11/24
+
+ */
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
